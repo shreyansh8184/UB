@@ -932,7 +932,7 @@ async def hack(hacked):
         if await hacked.get_reply_message():
             await hacked.edit(
                 "`Targeted User was Hacked successfully 👨‍💻......`"
-                "`Pay 999$ To` @devpatel_73 `To Remove This Hack`\n"
+                "`Pay 999$ To` my master `To Remove This Hack`\n"
             )
 
 			  
